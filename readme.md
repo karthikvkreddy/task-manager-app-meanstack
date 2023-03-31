@@ -4,6 +4,13 @@
 - JSON Web token
 - Email integrations
  
+## How to run application:
+```
+npm install
+npm run dev
+```
+- Import postman collection to play around the APIs 
+
 ## Mongoose
 - Object Relation Model
 
